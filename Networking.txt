@@ -1,0 +1,87 @@
+What are the 7 layers of the OSI model?
+What are some advantages of CDNs? Disadvantages?
+What is a reverse proxy? http://stackoverflow.com/questions/224664/difference-between-proxy-server-and-reverse-proxy-server
+What ports do the following use?
+HTTP 80
+HTTPS 443
+SSH 22
+
+Physical (Layer 1)
+Data Link (Layer 2)
+Network (Layer 3)
+Transport (Layer 4)
+Session (Layer 5)
+Presentation (Layer 6)
+Application (Layer 7) contains HTTP and HTTPS
+
+
+Advantages and Disadvantages of Using a Content Delivery Network
+
+A growing trend in the Internet community is the usage of a Content Delivery Network (CDN) to provide data across nodes in the most effective manner possible. 
+
+Advantages
+The advantages include:
+
+Decrease server load
+Faster content delivery
+100 percent availability
+Increase in the number of concurrent users
+More control of asset delivery
+
+Decrease Server Load
+
+As a result, the strategic placement can decrease the server load on interconnects, backbones and public and private peers, which frees up overall capacity and decreases delivery costs. Essentially, the content is spread out across several servers, as opposed to offloading them onto one large server.
+
+Faster Content Delivery
+
+Since CDNs place servers as close to a group of users as possible, latency and packet loss are minimized due to a shorter distance traveled. Theoretically, the closer the content is to the user, the faster the delivery. Therefore, users will experience less jitter when streaming, fewer network spikes, and an overall improved streaming quality. Due to the reliability, operators can deliver high quality content with a high level of service, low network server loads, and thus, lower costs.
+
+Additionally, many CDN providers offer TCP acceleration technology which boosts performance, thus improving user experience. Since CDNs decrease latency, the acceleration working in conjunction with an already high-performing network results in explosive content.
+
+100 Percent Availability
+
+Due to the distribution of assets across many regions, CDNs have automatic server availability sensing mechanisms with instant user redirection. As a result, CDN websites experience 100 percent availability, even during massive power outages, hardware issues or network problems.
+
+Increase in the number of Concurrent Users
+
+Strategically placing the servers in a CDN can result in high network backbone capacity, which equates to a significant increase in the number of users accessing the network at a given time. For example, where there is a 100 GB/s network backbone with 2 tb/s capacity, only 100 GB/s can be delivered. However, with a CDN, 10 servers will be available at 10 strategic locations and can then provide a total capacity of 10 x 100 GB/s.
+
+Control of Asset Delivery
+
+Another beneficial feature of CDN technology is that more control of asset delivery and network load is awarded. Operators have the ability to deliver real-time load statistics, optimize capacity per customer, display active regions, indicate which assets are popular, and report viewing details to their customers. These details are extremely important, since usage logs are deactivated once the server source has been added to the CDN.
+
+Disadvantages
+Unfortunately, there are several disadvantages to CDNs, which include:
+
+Impractical for many organizations
+Cost
+High cost per GB
+Support
+Maintenance
+Verification of the best locations
+Impractical for many Organizations
+
+Due to the inherent nature of the Internet being global, websites receive hits from across the world. Therefore, it is impractical for most organizations to maintain duplicate servers around strategically positioned around the world.
+
+Cost
+
+As a result, organizations must rely on support from third-party CDN vendors. Therefore, another one of the greatest limitations of a CDN are the fees associated with the service. Many of the larger CDN have high setup fees and other hidden fees. The high fee structure could potentially be to keep away smaller clients, focusing only on large business entities.
+
+In many instances, the pricing structure is hidden, not readily available or can be difficult to understand all the moving parts – one of which is the limitation of high cost per GB or storage and data transfer. Therefore, it is critical to understand every aspect of the terms and conditions prior to entering into a contract.
+
+Support
+
+Since most organizations utilize third-party vendors to maintain the CDN, there is always the question of support availability. If a major issue arises, will the operator be able to fix it in a timely manner and prevent the same problem from occurring again?
+
+Maintenance
+
+Similarly, the CDN operator must also effectively maintain each server with the proper updates and patches without disrupting the client’s content network. Placing a company’s entire corporate network into the hands of an operator is a major step. Therefore, all factors must be considered and backup plans implemented prior to setup and usage. This also includes timely maintenance and application of updates.
+
+Verification of the Best Locations
+
+Additionally, organizations must research the location of the servers offered by each CDN and find those that best fit their customer’s locations. It is pointless to utilize a CDN that is a significant distance from users, which will result in potential service disruptions, jittering streaming of video, downtime, low latency and thus low performance. Clients must completely verify the exact locations of all servers and determine if the CDN will be beneficial to its services and client base.
+
+With the high number of products available on the Internet and the amount of money spent to purchase those items while checking information, reading, writing and conducting many other activities on the Internet, it is critical to have a system that delivers performance and reliability. CDNs maintain those tasks and do much more.
+
+
+
